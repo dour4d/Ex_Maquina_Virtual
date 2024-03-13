@@ -1,0 +1,15 @@
+.titulo{
+    height: 60px;
+    width: 100%;
+    font-size: 50px;
+    color:rgb(13, 115, 204);
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+    background-color: crimson;
+}
+.paragrafo{
+    text-align: justify;
+    text-indent: 1.5cm;
+    background-color: rgb(255, 255, 255);
+}
