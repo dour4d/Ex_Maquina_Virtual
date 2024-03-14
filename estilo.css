@@ -13,3 +13,20 @@
     text-indent: 1.5cm;
     background-color: rgb(255, 255, 255);
 }
+.box{
+    height: 50px;
+    width: 40px;
+    bottom:5%;
+    left: 15%;
+    background-color: blue;
+    position:absolute;
+    
+}
+.box2{
+     height: 60px;
+     width: 40px;
+     
+     background-color: rgb(236, 15, 15);
+     position: absolute;
+
+}
